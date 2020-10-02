@@ -1,5 +1,5 @@
 # Popular languages on Github
 
-This Rest microservice list languages of the 100 trending repos. for each language:
-* calculated number of repos using this language
-* listed repos using the language
+This Rest microservice list languages of the 100 trending repos. For each language:
+* Calculated the number of repos using the language
+* Listed the repos using the language
