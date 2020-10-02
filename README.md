@@ -20,4 +20,4 @@ Run this commande to install requests :
 ## How to use this microservice
 When you install the requiremnts, then execute `Consume_github_api.py` file with this commande :
 
-`python `
+`python ./Consume_github_api.py`
