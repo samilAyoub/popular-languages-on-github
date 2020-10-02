@@ -5,7 +5,7 @@ This Rest microservice list languages of the 100 trending repos. For each langua
 * Listed the repos using the language
 
 ## Requirements:
-You need Python 3.8, Flask and Requests modules installed.
+You need Python, Flask and Requests modules installed.
 
 Required Python version: [Python 3.8](https://www.python.org/downloads/release/python-380/)
 
