@@ -27,10 +27,10 @@ def list_trending_langs():
             lang = repo["language"]
             repo_name = repo["name"]
 
-            # adding non existing languge
+            # adding non existing language
             d[lang] = d.get(lang, {"nbr": 0, "repos": []})
 
-            # updating existing languge
+            # updating existing language
             d[lang].update(
                 {"nbr": d[lang]["nbr"] + 1, "repos": d[lang]["repos"] + [repo_name]}
             )
