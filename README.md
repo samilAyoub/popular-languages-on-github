@@ -8,10 +8,6 @@ This Rest microservice list languages of the 100 trending repos. For each langua
 You need Flask and Requests modules installed.
 
 Run this commande to install flask
-'''
-pip install Flask
-'''
-Run this commande to install 
-'''
-pip install requests
-'''
+`pip install Flask`
+Run this commande to install requests
+`pip install requests`
