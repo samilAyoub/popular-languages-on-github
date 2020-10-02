@@ -16,3 +16,8 @@ Run this commande to install flask :
 Run this commande to install requests :
 
 `pip install requests`
+
+## How to use this microservice
+When you install the requiremnts, then execute `Consume_github_api.py` file with this commande :
+
+`python `
